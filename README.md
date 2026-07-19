@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License" />
   <img src="https://img.shields.io/badge/Role-Creative_Technologist-purple.svg?style=for-the-badge" alt="Role" />
   <h1>🎨 Creative Design Architect Scripts</h1>
-  <p>A massive suite of 1,225 enterprise-grade automation scripts for Adobe CC and 3ds Max.</p>
+  <p>A massive suite of 1,250 enterprise-grade automation scripts for Adobe CC and 3ds Max.</p>
 </div>
 
 ## 🚀 Overview
